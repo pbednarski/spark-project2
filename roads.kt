@@ -1,0 +1,2 @@
+val roads =  dataUnion.join(test_enc_orc, test_enc_orc("road_category") === dataUnion("road_category"))
+      .select(dataUnion("*"), test_enc_orc("id").alias("road_category")).drop(dataUnion("road_category")).show()

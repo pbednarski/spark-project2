@@ -1,0 +1,4 @@
+[debug] not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/pawel.bednarski/Projects/WSB-BigData-Project2/"), "wsb-bigdata-project2")...
+[debug] Done updating ProjectRef(uri("file:/Users/pawel.bednarski/Projects/WSB-BigData-Project2/"), "wsb-bigdata-project2")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
